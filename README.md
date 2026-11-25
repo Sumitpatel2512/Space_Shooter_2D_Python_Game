@@ -141,10 +141,10 @@ python main.py --demo --frames 600 --shot screenshot.png
 ## 📁 Project Structure
 
 ``` text
-SPACE-SHOOTER/
+Game/
 │
 ├── main.py       # Game code
-└── README.md     # Project documentation
+README.md         # Project documentation
 ```
 
 ## 🧠 Behind the Game
