@@ -1,4 +1,3 @@
-::: {align="center"}
 # 🚀 SPACE SHOOTER
 
 ### *Hold the line. Survive the waves. Defeat the boss.*
@@ -9,7 +8,6 @@ A fast-paced 2D arcade space shooter made with **Python + Pygame**.
 ![Pygame](https://img.shields.io/badge/Pygame-2.x-00A86B?style=for-the-badge)
 ![Genre](https://img.shields.io/badge/Genre-Arcade%20Shooter-8A2BE2?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Playable-brightgreen?style=for-the-badge)
-:::
 
 ------------------------------------------------------------------------
 
@@ -179,10 +177,8 @@ define how others may use, modify, and distribute this project.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
 ### ⭐ If you enjoyed the game, consider giving the repository a star!
 
 **Made with Python 🐍 and Pygame 🎮**
 
 *The galaxy is counting on you. Good luck, pilot!*
-:::
